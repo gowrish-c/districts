@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All Districts</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Districts of Tamil Nadu</h1>
+
+        <ul class="district-list">
+            <li>Ariyalur</li>
+            <li>Chengalpattu</li>
+            <li>Chennai</li>
+            <li>Coimbatore</li>
+            <li>Cuddalore</li>
+            <li>Dharmapuri</li>
+            <li>Dindigul</li>
+            <li>Erode</li>
+            <li>Kallakurichi</li>
+            <li>Kanchipuram</li>
+            <li>Kanniyakumari</li>
+            <li>Karur</li>
+            <li>Krishnagiri</li>
+            <li>Madurai</li>
+            <li>Mayiladuthurai</li>
+            <li>Nagapattinam</li>
+            <li>Namakkal</li>
+            <li>Nilgiris</li>
+            <li>Perambalur</li>
+            <li>Pudukkottai</li>
+            <li>Ramanathapuram</li>
+            <li>Ranipet</li>
+            <li>Salem</li>
+            <li>Sivaganga</li>
+            <li>Tenkasi</li>
+            <li>Thanjavur</li>
+            <li>Theni</li>
+            <li>Thoothukudi</li>
+            <li>Tiruchirappalli</li>
+            <li>Tirunelveli</li>
+            <li>Tirupathur</li>
+            <li>Tiruppur</li>
+            <li>Tiruvallur</li>
+            <li>Tiruvannamalai</li>
+            <li>Tiruvarur</li>
+            <li>Vellore</li>
+            <li>Viluppuram</li>
+            <li>Virudhunagar</li>
+        </ul>
+
+        <a href="index.html" class="btn">Home</a>
+    </div>
+</body>
+</html>
